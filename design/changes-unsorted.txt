@@ -1,0 +1,20 @@
+Better Storage
+    - Modified enchantment IDs. (Conflict with Thaumic Tinkerer, wouldn't launch without)
+   
+Resource Pack
+    - Textures for CustomItems.
+   
+Options
+    - Snooper off, personal preference.
+    - Various controls modified to fix conflicts. Not yet finalized.
+    - Enabled the resource pack.
+    
+Railcraft
+    - Copper/Tin/... Poor Ores don't generate normally. (Available through Thaumcraft, otherwise unused)
+
+CoFHCore
+    - "Replace Vanilla Generation" turned on.
+    - Iron and Gold removed from Vanilla generation.
+    - Coal per vein slightly reduced.
+    - "Hardened Iron mixed with H. Stone" blobs added. (~13 Ores per vein)
+    - "Poor Iron" (~4x2 nuggets) and "Poor Gold" (~8x2 nuggets) veins added.

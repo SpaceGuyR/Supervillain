@@ -1,0 +1,9 @@
+Remove update messages.
+Remove EMC values (from Matter, leave for Fuel?) - hide 'the reveal', not a focus after removing Transmutation
+
+The pack's Thaumcraft 'quest' recipes are ENABLED by default, so you can use them in advance/sequence-breaking/etc.
+The book just tells you what they are in a 'recommended' order.
+
+Config changes to avoid as many console warnings/errors on startup as possible.
+    - ProjectE: Looking for ExU, some other 'first time you start a world' one...
+    - Reika's mods: Looking for lots of textures.
