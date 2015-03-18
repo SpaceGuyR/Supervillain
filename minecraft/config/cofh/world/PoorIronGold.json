@@ -1,0 +1,36 @@
+{
+   "poorIron": {
+        "template": "uniform",
+        "block": {"name": "Railcraft:ore", "metadata": 7},
+        "material": "minecraft:stone",
+        "clusterSize": 6,
+        "numClusters": 20,
+        "minHeight": 0,
+        "maxHeight": 64,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+    "poorGold": {
+        "template": "uniform",
+        "block": {"name": "Railcraft:ore", "metadata": 8},
+        "material": "minecraft:stone",
+        "clusterSize": 8,
+        "numClusters": 2,
+        "minHeight": 0,
+        "maxHeight": 32,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "hardIron": {
+        "template": "uniform",
+        "block": [
+            "customitems:hardened_iron_ore",
+            "customitems:hardened_stone"
+        ],
+        "weight": [
+            66,
+            34
+        ],
+        "material": "minecraft:stone",
+        "clusterSize": 20,
+        "chunkChance": 0.7,
+        "numClusters": 1,
+        "minHeight": 40,
+        "maxHeight": 60,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    }
+}

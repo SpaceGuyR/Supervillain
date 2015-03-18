@@ -1,0 +1,37 @@
+CraftGuide: Extracting 'base/base.png' to 'C:\Users\Jack\Games\Minecraft\Launchers\MultiMC\instances\Supervillain\minecraft\config\CraftGuide\themes\base\base.png'
+CraftGuide: Extracting 'base/readme.txt' to 'C:\Users\Jack\Games\Minecraft\Launchers\MultiMC\instances\Supervillain\minecraft\config\CraftGuide\themes\base\readme.txt'
+CraftGuide: Extracting 'base/theme.xml' to 'C:\Users\Jack\Games\Minecraft\Launchers\MultiMC\instances\Supervillain\minecraft\config\CraftGuide\themes\base\theme.xml'
+CraftGuide: Extracting 'dark/dark.png' to 'C:\Users\Jack\Games\Minecraft\Launchers\MultiMC\instances\Supervillain\minecraft\config\CraftGuide\themes\dark\dark.png'
+CraftGuide: Extracting 'dark/dark_brew.png' to 'C:\Users\Jack\Games\Minecraft\Launchers\MultiMC\instances\Supervillain\minecraft\config\CraftGuide\themes\dark\dark_brew.png'
+CraftGuide: Extracting 'dark/dark_craft.png' to 'C:\Users\Jack\Games\Minecraft\Launchers\MultiMC\instances\Supervillain\minecraft\config\CraftGuide\themes\dark\dark_craft.png'
+CraftGuide: Extracting 'dark/theme.xml' to 'C:\Users\Jack\Games\Minecraft\Launchers\MultiMC\instances\Supervillain\minecraft\config\CraftGuide\themes\dark\theme.xml'
+CraftGuide: Extracting 'texpack_support/theme.xml' to 'C:\Users\Jack\Games\Minecraft\Launchers\MultiMC\instances\Supervillain\minecraft\config\CraftGuide\themes\texpack_support\theme.xml'
+(re)loading themes...
+  Trying to load directory: base
+    Found theme.xml
+    Loaded base
+  Trying to load directory: dark
+    Found theme.xml
+    Loaded dark
+  Trying to load directory: texpack_support
+    Found theme.xml
+    Loaded texpack_support
+(re)loading recipe list...
+  Getting recipes...
+    Generating recipes from uristqwerty.CraftGuide.recipes.DefaultRecipeProvider
+    Generating recipes from uristqwerty.CraftGuide.recipes.BrewingRecipes
+    Generating recipes from mods.defeatedcrow.plugin.craftguide.TeaRecipeHandlerCG
+    Generating recipes from mods.defeatedcrow.plugin.craftguide.IceRecipeHandlerCG
+    Generating recipes from mods.defeatedcrow.plugin.craftguide.PanRecipeHandlerCG
+    Generating recipes from mods.defeatedcrow.plugin.craftguide.ProsessorRecipeHandlerCG
+    Generating recipes from mods.defeatedcrow.plugin.craftguide.EvaporatorRecipeHandlerCG
+    Generating recipes from mods.defeatedcrow.plugin.craftguide.AdvProcessorRecipeHandlerCG
+    Generating recipes from mods.defeatedcrow.plugin.craftguide.TeppanRecipeHandlerCG
+    Generating recipes from mods.defeatedcrow.plugin.craftguide.ChocoRecipeHandlerCG
+    Generating recipes from mods.railcraft.common.plugins.craftguide.BlastFurnacePlugin
+    Generating recipes from mods.railcraft.common.plugins.craftguide.CokeOvenPlugin
+    Generating recipes from mods.railcraft.common.plugins.craftguide.RockCrusherPlugin
+    Generating recipes from mods.railcraft.common.plugins.craftguide.RollingMachinePlugin
+    Generating recipes from mods.railcraft.common.plugins.craftguide.CustomRecipesPlugin
+  Filtering recipes...
+    Filtering recipes from mods.railcraft.common.plugins.craftguide.RecipeFilter

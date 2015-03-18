@@ -1,0 +1,28 @@
+{
+     "creativeTabs":[
+         {
+             "tabLabel":"Supervillain",
+             "iconItem":"minecraft:hopper"                
+         }
+     ],
+     "blocks":[
+         {
+             "name":"Hardened Stone",
+             "textureName":"hardStone",
+             "creativeTab":"Supervillain",
+             "toolClass":"pickaxe",
+             "harvestLevel":4 ,
+             "canSilkHarvest":true,
+             "dropItemName":"minecraft:cobblestone"             
+         },
+         {
+             "name":"Hardened Iron Ore",
+             "textureName":"hardOreIron",
+             "creativeTab":"Supervillain",
+             "toolClass":"pickaxe",
+             "harvestLevel":4 ,
+             "canSilkHarvest":true,
+             "dropItemName":"minecraft:iron_ore"             
+         }
+     ]
+ }
