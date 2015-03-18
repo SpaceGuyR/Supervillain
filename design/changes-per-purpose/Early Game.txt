@@ -1,0 +1,11 @@
+In Vanilla, you tend to be able to rush past Stone tools the instant you find your first 3 Iron Ore, and immediately run into deep caves.
+    - Removed Torches from Charcoal.
+    - Reduced Torches from Coal from 4 to 1.
+    - Railcraft's "Wool + Creosote Bottle" recipe still gives 6, which is intended for deep caving.
+    - Iron Ore and Gold Ore replaced with Poor Iron and Poor Gold. (2 nuggets per ore)
+    
+    - New ore: 'Hardened Iron', mixed with Hardened Stone generates high up but under the surface.
+    - Hardened Iron Ore cannot be mined with (Wood, ) Stone, Iron or Diamond.
+    - Hardened Iron Ore yields Iron Ore (1 ingot) when exploded.
+    - (End-game mod picks and block-breakers usually work)
+    - Increased TNT yield from 30% to 90%. (Compromise: I'd like that to be for only the new ore)

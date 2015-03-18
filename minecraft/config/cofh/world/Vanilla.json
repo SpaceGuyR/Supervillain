@@ -37,7 +37,7 @@
         "template": "uniform",
         "block": "coal_ore",
         "material": "stone",
-        "clusterSize": 16,
+        "clusterSize": 12,
         "numClusters": 20,
         "minHeight": 0,
         "maxHeight": 128,

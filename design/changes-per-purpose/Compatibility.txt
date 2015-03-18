@@ -1,0 +1,1 @@
+    - Better Storage enchantment IDs changed to fix a conflict with Thaumic Tinkerer.

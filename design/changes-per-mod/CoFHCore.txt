@@ -1,0 +1,9 @@
+MOD: config/cofh/core/common.cfg
+    B:ReplaceVanillaGeneration=true
+    
+MOD: config/cofh/world/Vanilla.cfg
+    Coal ore-per-vein reduced slightly.
+    Iron and Gold removed. (Replaced w/ H. Iron & Poor Ores)
+    
+NEW: config/cofh/world/HardenedIron.cfg
+NEW: config/cofh/world/PoorIronGold.cfg

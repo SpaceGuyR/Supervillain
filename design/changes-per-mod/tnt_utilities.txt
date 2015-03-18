@@ -1,0 +1,2 @@
+MOD: config/tnt_utilities.cfg
+    - TNT yield increased from 30% to 90%. (Compromise: I'd prefer this to be just for Hardened Iron Ore)

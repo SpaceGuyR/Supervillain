@@ -1,0 +1,2 @@
+NEW: resourcepacks/supervillain
+    - Block textures for Hardened Iron Ore and Hardened Stone.

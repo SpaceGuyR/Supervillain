@@ -1,0 +1,4 @@
+MOD: options.txt
+    - Snooper setting is now OFF.
+    - Resource Pack "supervillain" selected by default.
+    - Various changes to controls to remove conflicts/personal preference.
